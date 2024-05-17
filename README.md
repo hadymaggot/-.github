@@ -1,9 +1,9 @@
 <p align="center">
-  <a><img src="https://github.com/hadymaggot/9hs.my.id/blob/main/localtime/_/images/ico2.png" width="100" alt="Ahadizapto Logo"></a>
+  <a><img src="https://github.com/hadymaggot/-.github/blob/main/icon.png" width="100" alt="Ahadizapto Logo"></a>
 </p>
 
 <p align="center">
-  <a href="https://9hs.my.id" target="_blank"><img src="https://github.com/hadymaggot/9hs.my.id/blob/main/localtime/_/images/alhadizapto.png" width="200" alt="Laravel Logo"></a>
+  <a href="https://9hs.my.id" target="_blank"><img src="https://github.com/hadymaggot/-.github/blob/main/ahadizapto.png" width="200" alt="Laravel Logo"></a>
 </p>
 
 <p align="center">
